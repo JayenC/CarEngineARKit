@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: bb81637dd34efe848b24fe60383c9e5a
+timeCreated: 1539309795
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: 1
+    100002: 10
+    100004: 11
+    100006: 12
+    100008: 13
+    100010: 14
+    100012: 15
+    100014: 16
+    100016: 17
+    100018: 18
+    100020: 18 1
+    100022: 2
+    100024: 20
+    100026: 21
+    100028: 3
+    100030: 4
+    100032: 5
+    100034: 6
+    100036: 7
+    100038: 8
+    100040: 9
+    100042: Cylinder709
+    100044: Cylinder710
+    100046: Cylinder711
+    100048: //RootNode
+    100050: Group269
+    100052: Object175
+    100054: Object194
+    100056: "\u7EC4004"
+    100058: g004
+    400000: 1
+    400002: 10
+    400004: 11
+    400006: 12
+    400008: 13
+    400010: 14
+    400012: 15
+    400014: 16
+    400016: 17
+    400018: 18
+    400020: 18 1
+    400022: 2
+    400024: 20
+    400026: 21
+    400028: 3
+    400030: 4
+    400032: 5
+    400034: 6
+    400036: 7
+    400038: 8
+    400040: 9
+    400042: Cylinder709
+    400044: Cylinder710
+    400046: Cylinder711
+    400048: //RootNode
+    400050: Group269
+    400052: Object175
+    400054: Object194
+    400056: "\u7EC4004"
+    400058: g004
+    2300000: 1
+    2300002: 10
+    2300004: 11
+    2300006: 12
+    2300008: 13
+    2300010: 14
+    2300012: 15
+    2300014: 16
+    2300016: 17
+    2300018: 18
+    2300020: 18 1
+    2300022: 2
+    2300024: 20
+    2300026: 21
+    2300028: 3
+    2300030: 4
+    2300032: 5
+    2300034: 6
+    2300036: 7
+    2300038: 8
+    2300040: 9
+    2300042: Cylinder709
+    2300044: Cylinder710
+    2300046: Cylinder711
+    2300048: Object175
+    2300050: Object194
+    3300000: 1
+    3300002: 10
+    3300004: 11
+    3300006: 12
+    3300008: 13
+    3300010: 14
+    3300012: 15
+    3300014: 16
+    3300016: 17
+    3300018: 18
+    3300020: 18 1
+    3300022: 2
+    3300024: 20
+    3300026: 21
+    3300028: 3
+    3300030: 4
+    3300032: 5
+    3300034: 6
+    3300036: 7
+    3300038: 8
+    3300040: 9
+    3300042: Cylinder709
+    3300044: Cylinder710
+    3300046: Cylinder711
+    3300048: Object175
+    3300050: Object194
+    4300000: Object175
+    4300002: 21
+    4300004: 7
+    4300006: 9
+    4300008: 6
+    4300010: 3
+    4300012: 5
+    4300014: 15
+    4300016: Cylinder709
+    4300018: Cylinder710
+    4300020: Cylinder711
+    4300022: 11
+    4300024: 16
+    4300026: 13
+    4300028: 12
+    4300030: 14
+    4300032: 1
+    4300034: Object194
+    4300036: 10
+    4300038: 8
+    4300040: 17
+    4300042: 18
+    4300044: 18
+    4300046: 4
+    4300048: 2
+    4300050: 20
+    7400000: Explore
+    7400002: Combine
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Explore
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Combine
+      takeName: Take 001
+      firstFrame: 30
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

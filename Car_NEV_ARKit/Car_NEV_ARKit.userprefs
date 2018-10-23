@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{408BE43D-0D46-DDC0-554D-BC86DAB6CCBE}|">
+  <MonoDevelop.Ide.ItemProperties.Car__NEV__ARKit.Editor PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Control/Sensor_QAControl.cs">
+    <Files>
+      <File FileName="Assets/UnityARKitPlugin/Examples/UnityParticlePainter/HSVPicker/Other/ColorPickerTester.cs" Line="7" Column="25" />
+      <File FileName="Assets/Scripts/Control/ColddownControl.cs" Line="22" Column="2" />
+      <File FileName="Assets/Scripts/Control/Sensor_QAControl.cs" Line="63" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

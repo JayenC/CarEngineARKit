@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 0399de998d701ba4db708a8c7938501b
+timeCreated: 1539333385
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: JianTou
+    100002: JianTou014
+    100004: JianTou016
+    100006: JianTou018
+    100008: JianTou020
+    100010: JianTou022
+    100012: JianTou024
+    100014: //RootNode
+    100016: Guan_02
+    100018: Guan_03
+    100020: JianTou025
+    100022: JianTou026
+    100024: JianTou027
+    100026: JianTou028
+    100028: JianTou029
+    100030: JianTou030
+    100032: JianTou031
+    100034: "\u56FE\u5F62003"
+    400000: JianTou
+    400002: JianTou014
+    400004: JianTou016
+    400006: JianTou018
+    400008: JianTou020
+    400010: JianTou022
+    400012: JianTou024
+    400014: //RootNode
+    400016: Guan_02
+    400018: Guan_03
+    400020: JianTou025
+    400022: JianTou026
+    400024: JianTou027
+    400026: JianTou028
+    400028: JianTou029
+    400030: JianTou030
+    400032: JianTou031
+    400034: "\u56FE\u5F62003"
+    2300000: JianTou
+    2300002: JianTou014
+    2300004: JianTou016
+    2300006: JianTou018
+    2300008: JianTou020
+    2300010: JianTou022
+    2300012: JianTou024
+    2300014: Guan_02
+    2300016: Guan_03
+    2300018: JianTou025
+    2300020: JianTou026
+    2300022: JianTou027
+    2300024: JianTou028
+    2300026: JianTou029
+    2300028: JianTou030
+    2300030: JianTou031
+    3300000: JianTou
+    3300002: JianTou014
+    3300004: JianTou016
+    3300006: JianTou018
+    3300008: JianTou020
+    3300010: JianTou022
+    3300012: JianTou024
+    3300014: Guan_02
+    3300016: Guan_03
+    3300018: JianTou025
+    3300020: JianTou026
+    3300022: JianTou027
+    3300024: JianTou028
+    3300026: JianTou029
+    3300028: JianTou030
+    3300030: JianTou031
+    4300000: JianTou
+    4300002: JianTou014
+    4300004: JianTou016
+    4300006: JianTou018
+    4300008: JianTou020
+    4300010: JianTou022
+    4300012: JianTou024
+    4300014: Guan_02
+    4300016: Guan_03
+    4300018: JianTou025
+    4300020: JianTou026
+    4300022: JianTou027
+    4300024: JianTou028
+    4300026: JianTou029
+    4300028: JianTou030
+    4300030: JianTou031
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
